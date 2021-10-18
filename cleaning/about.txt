@@ -1,0 +1,2 @@
+The code for cleaning the raw datasets is stored here.
+The resulting datasets are again saved in data/
