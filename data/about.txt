@@ -1,1 +1,16 @@
 Here the data used for the project will be stored. They will not be uploaded on gihub but the subfolder structure will be given here
+
+Dataset - Description
+------------------------------------------------------------
+1. Innocent Deaths caused by Police (All time).csv - 
+"This dataset was created by Fatal Encounters. 
+This dataset contains incidents in which an individual meets death during an encounter with law enforcement officials. 
+The majority of encounters occur as a result of police homicide, 
+as when officers shoot a person who is presenting a lethal threat to them or others. 
+However, there are other types of Encounters that do not involve acts of police homicide, 
+but in which police are otherwise involved or are present. 
+Examples include a vehicle crash during a police chase or a suicide in a barricade situation."
+
+2. Police Killings 2013-2021.csv - No official description
+
+3 Police Violence and Racial Equity - 3 parts in folders. See inside folders for description and source
