@@ -178,6 +178,8 @@ venv.bak/
 *.mp4
 *.wav
 *.pptx
+*.zip
+*.rar
 
 # macos
 *.DS_Store
