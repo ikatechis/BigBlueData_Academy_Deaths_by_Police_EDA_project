@@ -180,6 +180,7 @@ venv.bak/
 *.pptx
 *.zip
 *.rar
+*.dat
 
 # macos
 *.DS_Store
