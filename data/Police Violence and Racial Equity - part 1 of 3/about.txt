@@ -1,4 +1,4 @@
-
+FROM: https://mappingpoliceviolence.org/
 
 Law enforcement agencies across the country have failed to provide us with even basic information about the lives they have taken. And while the Deaths in Custody Reporting Act mandates this data be reported, its unclear whether police departments will actually comply with this mandate and, even if they do decide to report this information, it could be several years before the data is fully collected, compiled and made public. 
 
@@ -34,4 +34,58 @@ A person was coded as having a Vehicle as a weapon if they were one or more of t
 A person was coded as Allegedly Armed in the database if they:
 
     were alleged to have possessed objects or weapons in circumstances other than those stated above
+
+deaths_arrests.csv: shape: (1006, 46)
+
+Columns:
+
+State
+City
+PD
+Black People Killed by Police (1/1/2013-12/31/2019)
+Hispanic People Killed by Police (1/1/2013-12/31/2019)
+Native American People Killed by Police (1/1/2013-12/31/2019)
+Asian People Killed by Police (1/1/2013-12/31/2019)
+Pacific Islanders Killed by Police (1/1/2013-12/31/2019)
+White People Killed by Police (1/1/2013-12/31/2019)
+Unknown Race People Killed by Police (1/1/2013-12/31/2019)
+All People Killed by Police (1/1/2013-12/31/2019)
+Total
+Black
+White
+Amer. Indian
+Asian
+Hawaiian
+Asian/Pacific Islander
+Other
+Two or
+more races
+Hispanic
+Black-White Dissimilarity Index (2010)
+Murder and/nonnegligent manslaughter
+Murder Rate
+Avg Annual Police Homicide Rate
+Avg Annual Police Homicide Rate for Black People
+Avg Annual Police Homicide Rate for White People
+Avg Annual Police Homicide Rate for Hispanic People
+Black-White Disparity
+Hispanic-White Disparity
+Violent crimes 2013 (if reported by agency)
+Violent crimes 2014 (if reported by agency)
+Violent crimes 2015 (if reported by agency)
+Violent crimes 2016 (if reported by agency)
+Violent crimes 2017 (if reported by agency)
+Violent crimes 2018 (if reported by agency)
+Average Violent Crimes Reported (2013-17)
+Violent Crime Rate
+2013 Total Arrests (UCR Data)
+2014 Total Arrests
+2015 Total Arrests
+2016 Total Arrests
+2017 Total Arrests
+2018 Total Arrests
+Estimated Average Arrests per Year
+Killings by Police per 10k Arrests
+
+
 
