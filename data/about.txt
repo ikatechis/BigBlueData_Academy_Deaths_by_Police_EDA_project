@@ -1,4 +1,4 @@
-Here the data used for the project will be stored. They will not be uploaded on gihub but the subfolder structure will be given here
+Here the data used for the project will be stored. They will not be uploaded on github but the subfolder structure will be given here
 
 Dataset - Description
 ------------------------------------------------------------
