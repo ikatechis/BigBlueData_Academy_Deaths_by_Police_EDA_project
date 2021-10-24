@@ -15,6 +15,7 @@ Lists killings by police and gives relevant information like name, date, locatio
 etc. Check data folder for more info (Column names, comments etc.).
 
 Shape: (30860, 27)
+
 time span: 2000-01-01 - 2021-08-31
 
 2. [Police Killings 2013-2021](https://www.kaggle.com/esippel22/police-killings-20132021)
@@ -23,6 +24,7 @@ Lists killings by police and gives relevant information like name, date, locatio
 etc. Check data folder for more info (Column names, comments etc.).
 
 Shape: (9116, 35)
+
 time span: 2013-01-01 - 2021-04-24
 
 3. [Police Violence and Racial Equity - part 1 of 3/deaths_arrests.csv](https://www.kaggle.com/jpmiller/police-violence-in-the-us)
@@ -35,4 +37,5 @@ This particular csv collects analysis about the racial distribution of killings 
 homicide, violent crimes and arrest statistics per US City.
 
 Shape: (1006, 46)
+
 time span: 2013-01-01 -2019/12/31
