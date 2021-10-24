@@ -1,1 +1,84 @@
-Here the data used for the project will be stored. They will not be uploaded on gihub but the subfolder structure will be given here
+Here the data used for the project will be stored. They will not be uploaded on github but the subfolder structure will be given here
+
+Dataset - Description
+------------------------------------------------------------
+1. Innocent Deaths caused by Police (All time).csv - 
+"This dataset was created by Fatal Encounters. 
+This dataset contains incidents in which an individual meets death during an encounter with law enforcement officials. 
+The majority of encounters occur as a result of police homicide, 
+as when officers shoot a person who is presenting a lethal threat to them or others. 
+However, there are other types of Encounters that do not involve acts of police homicide, 
+but in which police are otherwise involved or are present. 
+Examples include a vehicle crash during a police chase or a suicide in a barricade situation."
+
+Columns:
+
+Unique ID
+Name
+Age
+Gender
+Race
+URL of image
+ Date of injury resulting in death (month/day/year)
+Location of injury (address)
+Location of death (city)
+State
+Location of death (zip code)
+Location of death (county)
+Full Address
+Latitude
+Longitude
+Agency or agencies involved
+Highest level of force
+Alleged weapon
+Aggressive physical movement
+Fleeing/Not fleeing
+Description Temp
+URL Temp
+Brief description
+Dispositions/Exclusions INTERNAL USE, NOT FOR ANALYSIS
+Intended use of force (Developing)
+Supporting document link
+Foreknowledge of mental illness
+
+2. Police Killings 2013-2021.csv - No official description
+
+Columns:
+
+Victim's name
+Victim's age
+Victim's gender
+Victim's race
+URL of image of victim
+Date of Incident (month/day/year)
+Street Address of Incident
+City
+State
+Zipcode
+County
+Agency responsible for death
+ORI Agency Identifier (if available)
+Cause of death
+A brief description of the circumstances surrounding the death
+Official disposition of death (justified or other)
+Criminal Charges?
+Link to news article or photo of official document
+Symptoms of mental illness?
+Armed/Unarmed Status
+Alleged Weapon (Source: WaPo and Review of Cases Not Included in WaPo Database)
+Alleged Threat Level (Source: WaPo)
+Fleeing (Source: WaPo)
+Body Camera (Source: WaPo)
+WaPo ID (If included in WaPo database)
+Off-Duty Killing?
+Geography (via Trulia methodology based on zipcode population density: http://jedkolko.com/wp-content/uploads/2015/05/full-ZCTA-urban-suburban-rural-classification.xlsx )
+MPV ID
+Fatal Encounters ID
+Encounter Type (DRAFT)
+Initial Reported Reason for Encounter (DRAFT)
+Names of Officers Involved (DRAFT)
+Race of Officers Involved (DRAFT)
+Known Past Shootings of Officer(s) (DRAFT)
+Call for Service? (DRAFT)
+
+3 Police Violence and Racial Equity - 3 parts in folders. See inside folders for description and source
