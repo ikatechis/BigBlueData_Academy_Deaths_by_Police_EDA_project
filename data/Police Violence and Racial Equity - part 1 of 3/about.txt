@@ -1,0 +1,91 @@
+FROM: https://mappingpoliceviolence.org/
+
+Law enforcement agencies across the country have failed to provide us with even basic information about the lives they have taken. And while the Deaths in Custody Reporting Act mandates this data be reported, its unclear whether police departments will actually comply with this mandate and, even if they do decide to report this information, it could be several years before the data is fully collected, compiled and made public. 
+
+We cannot wait to know the true scale of police violence against our communities. In a country where at least three people are killed by police every day, we cannot wait for police departments to provide us with these answers. The maps and charts on this site aim to provide us with some insights into patterns of police violence across the country. They include information on over 9,000 killings by police nationwide since 2013. 97 percent of the killings in our database occurred while a police officer was acting in a law enforcement capacity. Importantly, these data do not include killings by vigilantes or security guards who are not off-duty police officers.
+
+This information has been meticulously sourced from official police use of force data collection programs in states like California, Texas and Virginia, combined with nationwide data from the Fatal Encounters database, an impartial crowdsourced database on police killings. We've also done extensive original research to further improve the quality and completeness of the data; searching social media, obituaries, criminal records databases, police reports and other sources to identify the race of 90 percent of all victims in the database.
+
+We believe the data represented on this site is the most comprehensive accounting of people killed by police since 2013. Note that the Mapping Police Violence database is more comprehensive than the Washington Post police shootings database: while WaPo only tracks cases where people are fatally shot by on-duty police officers, our database includes additional incidents such as cases where police kill someone through use of a chokehold, baton, taser or other means as well as cases such as killings by off-duty police. A recent report from the Bureau of Justice Statistics estimated approximately 1,200 people were killed by police between June, 2015 and May, 2016. Our database identified 1,104 people killed by police over this time period. While there are undoubtedly police killings that are not included in our database (namely, those that go unreported by the media), these estimates suggest that our database captures 92% of the total number of police killings that have occurred since 2013. We hope these data will be used to provide greater transparency and accountability for police departments as part of the ongoing campaign to end police violence in our communities.
+Definitions
+
+Police Killing: A case where a person dies as a result of being shot, beaten, restrained, intentionally hit by a police vehicle, pepper sprayed, tasered, or otherwise harmed by police officers, whether on-duty or off-duty.
+
+A person was coded as Unarmed/Did Not Have a Weapon in the database if they were one or more of the following:
+
+    not holding any objects or weapons when killed
+
+    holding household/personal items that were not used to attack others (cellphone, video game controller, cane, etc.)
+
+    holding a toy weapon (BB gun, pellet gun, air rifle, toy sword)
+
+    an innocent bystander or hostage killed by a police shooting or other police use of force
+
+    a person or motorist killed after being intentionally hit by a police car or as a result of hitting police stop sticks during a pursuit
+
+A person was coded as having a Vehicle as a weapon if they were one or more of the following:
+
+    a driver who was killed while hitting, dragging or driving towards officers or civilians
+
+    a driver who was driving and/or being pursued by police at high speeds, presenting a danger to the public
+
+    people who were killed by a civilian driver or crashed without being hit directly by police during a police pursuit are not included in the database. Note that an estimated 300 people are killed in police pursuits each year and only a small proportion of these cases are included in the database (most deadly pursuits end after the driver crashes themselves into something or hits a civilian vehicle without being directly rammed/hit by police).
+
+A person was coded as Allegedly Armed in the database if they:
+
+    were alleged to have possessed objects or weapons in circumstances other than those stated above
+
+deaths_arrests.csv: shape: (1006, 46)
+
+Columns:
+
+State
+City
+PD
+Black People Killed by Police (1/1/2013-12/31/2019)
+Hispanic People Killed by Police (1/1/2013-12/31/2019)
+Native American People Killed by Police (1/1/2013-12/31/2019)
+Asian People Killed by Police (1/1/2013-12/31/2019)
+Pacific Islanders Killed by Police (1/1/2013-12/31/2019)
+White People Killed by Police (1/1/2013-12/31/2019)
+Unknown Race People Killed by Police (1/1/2013-12/31/2019)
+All People Killed by Police (1/1/2013-12/31/2019)
+Total
+Black
+White
+Amer. Indian
+Asian
+Hawaiian
+Asian/Pacific Islander
+Other
+Two or
+more races
+Hispanic
+Black-White Dissimilarity Index (2010)
+Murder and/nonnegligent manslaughter
+Murder Rate
+Avg Annual Police Homicide Rate
+Avg Annual Police Homicide Rate for Black People
+Avg Annual Police Homicide Rate for White People
+Avg Annual Police Homicide Rate for Hispanic People
+Black-White Disparity
+Hispanic-White Disparity
+Violent crimes 2013 (if reported by agency)
+Violent crimes 2014 (if reported by agency)
+Violent crimes 2015 (if reported by agency)
+Violent crimes 2016 (if reported by agency)
+Violent crimes 2017 (if reported by agency)
+Violent crimes 2018 (if reported by agency)
+Average Violent Crimes Reported (2013-17)
+Violent Crime Rate
+2013 Total Arrests (UCR Data)
+2014 Total Arrests
+2015 Total Arrests
+2016 Total Arrests
+2017 Total Arrests
+2018 Total Arrests
+Estimated Average Arrests per Year
+Killings by Police per 10k Arrests
+
+
+
