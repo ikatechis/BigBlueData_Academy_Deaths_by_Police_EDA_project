@@ -183,6 +183,7 @@ venv.bak/
 *.rar
 *.dat
 *.geojson
+*.html
 
 # macos
 *.DS_Store
