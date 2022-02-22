@@ -1,5 +1,5 @@
 
-### Big Blue Data Academy EDA project: 
+### Big Blue Data Academy EDA project:
 
 ## 'Deaths Caused by Police in the United States'
 
@@ -43,3 +43,14 @@ homicide, violent crimes and arrest statistics per US City.
 Shape: (1006, 46)
 
 time span: 2013-01-01 -2019/12/31
+
+## Results
+
+Some excerpts from the presentation of the project. Disturbingly, the percentage of deaths has a strong racial characteristic. If interested, you can see our [full presentation here](https://docs.google.com/presentation/d/1tzG-Ha6RJ4RuqqFZ0nVZG-OsmeE8KzLuU9XkOkrr4UY/edit?usp=sharing).
+![presentation1](https://user-images.githubusercontent.com/17815370/155122275-06f0c063-b35e-4034-9c7a-8cd6164ff7ff.png)
+![presentation2](https://user-images.githubusercontent.com/17815370/155122284-220bd343-3cb5-4a85-8c41-ddcc3af014bb.png)
+![presentation3](https://user-images.githubusercontent.com/17815370/155122294-fc3fc9d3-56e0-48a6-b3ca-6263c26a0a2b.png)
+![presentation4](https://user-images.githubusercontent.com/17815370/155122302-787d0b82-c448-44da-8af3-c0dac461e43c.png)
+
+![presentation5](https://user-images.githubusercontent.com/17815370/155122310-7d46069e-b35d-4cd0-9713-733c5c3c660f.png)
+![presentation6](https://user-images.githubusercontent.com/17815370/155122319-6351f071-aa06-4a6f-b8f9-99dc1df2fc0c.png)
